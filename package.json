@@ -1,0 +1,24 @@
+{
+  "name": "colores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./dist/index.js",
+    "dev": "tsc -w"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinCoimbra/TypeScript.git"
+  },
+  "author": "Martin Coimbra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinCoimbra/TypeScript/issues"
+  },
+  "homepage": "https://github.com/MartinCoimbra/TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
